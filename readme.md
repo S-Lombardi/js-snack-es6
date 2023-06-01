@@ -18,7 +18,7 @@ SVOLGIMENTO : preparare l'aula per un nuovo corso
 
 0-creare l'elenco studenti tramite un array di 7 oggetti
 1-Creare una nuovo array con la stessa lista di studenti ma il nome stampato deve essere tutto maiuscolo
-   1.1 Utilizzare map() e .Uppercase
+   1.1 Utilizzare map() e .toUpperCase
 2-Nuovo array per creare l'elenco di studenti che hanno un voto sueperiore a 70
   2.2 Utilizzare filter() e un controllo
   2.3 condizione:  il voto dello studente deve essere > di 70
