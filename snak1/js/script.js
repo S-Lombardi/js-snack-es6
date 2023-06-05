@@ -16,7 +16,7 @@ const guests =[
 
 console.log(guests)
 
-const placeholderList = guests.map((item, index,) => {
+const placeHolderList = guests.map((item, index,) => {
 
     let object ={
         table_name: "Tavolo Vip",
@@ -28,4 +28,4 @@ const placeholderList = guests.map((item, index,) => {
 
 })
 
-console.log(placeholderList)
+console.log(placeHolderList)
